@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Imran</h1>
-<h3 align="center">A passionate developer crafting robust applications.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmadimran&label=Profile%20views&color=0e75b6&style=flat" alt="mahmadimran" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=CS+Junior+%40+FAST+NUCES+Lahore;Full-Stack+Web+Developer;ML+%26+Systems+Enthusiast;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmadimran&label=Profile%20views&color=0e75b6&style=flat-square" alt="mahmadimran views" />
+  <img src="https://img.shields.io/github/followers/mahmadimran?label=Followers&style=flat-square&logo=github&color=238636" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mahmadimran?label=Stars&style=flat-square&logo=github&color=e3b341" alt="Stars" />
 </p>
 
 ---
@@ -76,12 +81,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
+### 📈 GitHub Contribution Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahmadimran&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmadimran&theme=react-dark&hide_border=true&area=true" alt="mahmadimran's Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmadimran&theme=react-dark&hide_border=true&area=true" alt="mahmadimran's Contribution Graph" width="100%" />
 </p>
