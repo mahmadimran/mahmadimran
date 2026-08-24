@@ -76,8 +76,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmadimran&theme=radical&hide_border=true" alt="mahmadimran's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mahmadimran&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmadimran&theme=react-dark&hide_border=true&area=true" alt="mahmadimran's Contribution Graph" width="95%" />
 </p>
