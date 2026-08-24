@@ -79,6 +79,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmadimran&show_icons=true&theme=radical&hide_border=true" alt="mahmadimran's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmadimran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmadimran&theme=radical&hide_border=true" alt="mahmadimran's GitHub Streak" />
 </p>
