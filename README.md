@@ -87,9 +87,12 @@
   </tr>
 </table>
 
----
+### 📈 GitHub Contribution Activity & Streak
 
-### 📈 GitHub Contribution Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahmadimran&theme=radical&hide_border=true" alt="mahmadimran's GitHub Streak" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmadimran&theme=react-dark&hide_border=true&area=true" alt="mahmadimran's Contribution Graph" width="100%" />
 </p>
