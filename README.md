@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,python,tensorflow,opencv,bash,git,github&perline=11" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,tensorflow,opencv,html,css,bash,git,github&perline=12" />
   </a>
 </p>
 
@@ -31,24 +31,24 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🛒 Grocery Store System</h3>
-      <p>A comprehensive web-based online grocery store system with a complete backend API, admin panel, cart management, and order tracking.</p>
+      <h3>🚀 Space Shooter</h3>
+      <p>A 2D arcade Space Shooter game with real-time collision mechanics, multi-level difficulty progression, and persistent high scores.</p>
       <p>
-        <a href="https://github.com/mahmadimran/Grocery-Store-System">
+        <a href="https://github.com/mahmadimran/Space-Shooter">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p><code>Node.js</code> <code>Express</code> <code>SQL Server</code></p>
+      <p><code>C++</code> <code>SFML</code> <code>Visual Studio</code></p>
     </td>
     <td width="50%" align="center">
-      <h3>🥦 eGrocer</h3>
-      <p>A full-stack online grocery platform featuring Customer, Seller, and Admin dashboards with real-time inventory and flash deals.</p>
+      <h3>⭐ MovingStar</h3>
+      <p>A real-time obstacle-navigation game written entirely in 8088 Assembly Language, featuring custom keyboard and timer interrupt handlers.</p>
       <p>
-        <a href="https://github.com/mahmadimran/eGrocer">
+        <a href="https://github.com/mahmadimran/MovingStar">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p><code>Node.js</code> <code>Express</code> <code>HTML/CSS</code></p>
+      <p><code>8088 Assembly</code> <code>NASM</code> <code>DOS</code></p>
     </td>
   </tr>
   <tr>
@@ -63,14 +63,26 @@
       <p><code>Python</code> <code>TensorFlow</code> <code>OpenCV</code></p>
     </td>
     <td width="50%" align="center">
-      <h3>⭐ MovingStar</h3>
-      <p>A real-time obstacle-navigation game written entirely in 8088 Assembly Language, featuring custom keyboard and timer interrupt handlers.</p>
+      <h3>🥦 eGrocer</h3>
+      <p>A full-stack online grocery platform featuring Customer, Seller, and Admin dashboards with real-time inventory and flash deals.</p>
       <p>
-        <a href="https://github.com/mahmadimran/MovingStar">
+        <a href="https://github.com/mahmadimran/eGrocer">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p><code>8088 Assembly</code> <code>NASM</code> <code>DOS</code></p>
+      <p><code>Node.js</code> <code>Express</code> <code>HTML/CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🛒 Grocery Store System</h3>
+      <p>A comprehensive web-based online grocery store system with a complete backend API, admin panel, cart management, and order tracking.</p>
+      <p>
+        <a href="https://github.com/mahmadimran/Grocery-Store-System">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p><code>Node.js</code> <code>Express</code> <code>SQL Server</code></p>
     </td>
   </tr>
 </table>
