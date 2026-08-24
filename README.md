@@ -1,0 +1,84 @@
+<h1 align="center">Hi 👋, I'm Muhammad Ahmad Imran</h1>
+<h3 align="center">A passionate developer crafting robust applications.</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmadimran&label=Profile%20views&color=0e75b6&style=flat" alt="mahmadimran" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 I'm a Junior (5th Semester) Computer Science student at **FAST NUCES, Lahore**.
+- 💻 Passionate about building full-stack web applications, exploring machine learning, and diving into systems programming.
+- 🌱 Currently expanding my skills in modern web frameworks and AI model development.
+- 📫 How to reach me: **[ahmadimran201105@gmail.com](mailto:ahmadimran201105@gmail.com)**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,python,tensorflow,opencv,bash,git,github&perline=11" />
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛒 Grocery Store System</h3>
+      <p>A comprehensive web-based online grocery store system with a complete backend API, admin panel, cart management, and order tracking.</p>
+      <p>
+        <a href="https://github.com/mahmadimran/Grocery-Store-System">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p><code>Node.js</code> <code>Express</code> <code>SQL Server</code></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🥦 eGrocer</h3>
+      <p>A full-stack online grocery platform featuring Customer, Seller, and Admin dashboards with real-time inventory and flash deals.</p>
+      <p>
+        <a href="https://github.com/mahmadimran/eGrocer">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p><code>Node.js</code> <code>Express</code> <code>HTML/CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>😊 Facial Recognition</h3>
+      <p>Real-time Facial Expression Recognition system powered by a custom CNN trained on FER-2013, detecting 7 emotions via webcam.</p>
+      <p>
+        <a href="https://github.com/mahmadimran/Facial-Recognition">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p><code>Python</code> <code>TensorFlow</code> <code>OpenCV</code></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>⭐ MovingStar</h3>
+      <p>A real-time obstacle-navigation game written entirely in 8088 Assembly Language, featuring custom keyboard and timer interrupt handlers.</p>
+      <p>
+        <a href="https://github.com/mahmadimran/MovingStar">
+          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p><code>8088 Assembly</code> <code>NASM</code> <code>DOS</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmadimran&show_icons=true&theme=radical&hide_border=true" alt="mahmadimran's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmadimran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px"/>
+</p>
