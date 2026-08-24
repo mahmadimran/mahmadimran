@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a Sophomore Computer Science student at **FAST NUCES, Lahore**.
+- 🎓 I'm a Junior Computer Science student at **FAST NUCES, Lahore**.
 - 💻 Passionate about building full-stack web applications, exploring machine learning, and diving into systems programming.
 - 🌱 Currently expanding my skills in modern web frameworks and AI model development.
 - 📫 How to reach me: **[ahmadimran201105@gmail.com](mailto:ahmadimran201105@gmail.com)**
